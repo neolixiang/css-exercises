@@ -1,0 +1,27 @@
+/* all odd elements */
+.jiujiu {
+    background-color: pink;
+    font-family: verdana, 'dejavu sans', sans-serif;
+}
+
+/* second element */
+#yin {
+    color: blue;
+    font-size: 36px;
+}
+
+/* third element */
+.cooler{
+    font-size: 24px
+}
+
+/* fourth element */
+#xiang {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px
+}
+
+* {
+    font-family:'Courier New', Courier, monospace;
+}
